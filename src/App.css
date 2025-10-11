@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+section {
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc; /* A light border */
+  background-color: #f7f7f7; /* A light gray background */
+  border-radius: 8px; /* Slightly rounded corners */
+}
+
+/* This styles your main header */
+h1 {
+  color: #0077b6; /* A nice blue color */
+  text-align: center;
+  margin-bottom: 40px;
+}

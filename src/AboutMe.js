@@ -10,3 +10,4 @@ export default function AboutMe() {
       </section>
     );
   }
+  import './App.css';
